@@ -1,5 +1,5 @@
 clear
-figlet -f bigmono9 "A7SL Spammer" | lolcat
+figlet -f bigmono9 "A7SL Spam" | lolcat
 echo "\033[38;1m ----------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "                    AUTHOR : A7SL"
@@ -24,7 +24,7 @@ read ezz
 if [ $ezz = 1 ] || [ $ezz = 01 ]
 then
 clear
-toilet -f larry3d "JDID"
+toilet -f isometric3 "JDID"
 php jdid.php
 sh spam.sh
 fi
@@ -32,7 +32,7 @@ fi
 if [ $ezz = 02 ] || [ $ezz = 2 ]
 then
 clear
-toilet -f  larry3d  "TELKOMSEL"
+toilet -f  isometric3  "TELKOMSEL"
 php telkomsel.php
 sh spam.sh
 fi
@@ -40,7 +40,7 @@ fi
 if [ $ezz = 03 ] || [ $ezz = 3 ]
 then
 clear 
-toilet -f larry3d "PHD"
+toilet -f isometric3 "PHD"
 php phd.php
 sh spam.sh
 fi
@@ -48,7 +48,7 @@ fi
 if [ $ezz = 04 ] || [ $ezz = 4 ]
 then
 clear
-toilet -f larry3d "TOKPED"
+toilet -f isometric3 "TOKPED"
 php tokped.php
 sh spam.sh
 fi
