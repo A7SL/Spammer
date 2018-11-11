@@ -15,9 +15,9 @@ echo ""
      echo "\033[32;1m""    (02)TELKOMSEL "
      echo "\033[33;1m""    (03)PHD"
      echo "\033[32;1m""    (04)TOKOPEDIA" 
-     echo "\033[33;1m""    (05)Lazada "
+     echo "\033[33;1m""    (05)LAZADA "
      echo "\033[34;1m""    (00)INFO "
-     echo "\033[34;1m""    (99)Keluar "
+     echo "\033[34;1m""    (99)KELUAR "
 echo "\033[33;1m"" Nomor Berapa Cok ? "
 read ezz 
 
