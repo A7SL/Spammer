@@ -24,7 +24,7 @@ read ezz
 if [ $ezz = 1 ] || [ $ezz = 01 ]
 then
 clear
-toilet -f isometric3 "JDID"
+figlet -f bigmono9 "JDID" | lolcat
 php jdid.php
 sh spam.sh
 fi
@@ -32,7 +32,7 @@ fi
 if [ $ezz = 02 ] || [ $ezz = 2 ]
 then
 clear
-toilet -f  isometric3  "TELKOMSEL"
+figlet -f bigmono9 "Telkomsel" | lolcat
 php telkomsel.php
 sh spam.sh
 fi
@@ -40,7 +40,7 @@ fi
 if [ $ezz = 03 ] || [ $ezz = 3 ]
 then
 clear 
-toilet -f isometric3 "PHD"
+figlet -f bigmono9 "PHD Spam" | lolcat
 php phd.php
 sh spam.sh
 fi
@@ -48,7 +48,7 @@ fi
 if [ $ezz = 04 ] || [ $ezz = 4 ]
 then
 clear
-toilet -f isometric3 "TOKPED"
+figlet -f bigmono9 "Tokopedia" | lolcat
 php tokped.php
 sh spam.sh
 fi
