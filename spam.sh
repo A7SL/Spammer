@@ -2,7 +2,7 @@ clear
 figlet -f bigmono9 "A7SL Spam" | lolcat
 echo "\033[38;1m ----------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
-echo "\033[36;1m" "                    A7SL & ALL REVERSED"
+echo "\033[36;1m" "                    A7SL & ALL RESERVED"
 echo "\033[36;1m" "                    		ArchXploit"
 echo "\033[35;1m Gunakan Sebijak Mungkin"
 echo "\033[34;1m" "https://archxploit.xyz"
@@ -20,7 +20,7 @@ echo ""
      echo "\033[34;1m""    (99)KELUAR "
 echo "\033[33;1m"" Nomor Berapa Cok ? "
 echo "\033[32;1m"
-read -p "[root@A7SL:~#" ezz
+read -p "root@A7SL:~#" ezz
 
 if [ $ezz = 1 ] || [ $ezz = 01 ]
 then
