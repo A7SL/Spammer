@@ -19,7 +19,8 @@ echo ""
      echo "\033[34;1m""    (00)INFO "
      echo "\033[34;1m""    (99)KELUAR "
 echo "\033[33;1m"" Nomor Berapa Cok ? "
-read ezz 
+echo "\033[32;1m"
+read -p "[root@A7SL:~#" ezz
 
 if [ $ezz = 1 ] || [ $ezz = 01 ]
 then
