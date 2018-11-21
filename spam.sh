@@ -7,6 +7,7 @@ echo "\033[36;1m" "                    		ArchXploit"
 echo "\033[35;1m Gunakan Sebijak Mungkin"
 echo "\033[34;1m" "https://archxploit.xyz"
 echo "\033[34;1m" "Keep Use My Tools :)"
+echo "\033[34;1m"
 echo "\033[38;1m ----------------------------------------------------------------"|lolcat
 echo ""
      echo "\033[34;1m"" Choose Your Fighter "
